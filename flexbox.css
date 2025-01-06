@@ -1,0 +1,19 @@
+.one{
+    position:relative;
+    background-color:beige;
+    border:2px solid plum;
+    
+}
+.two{
+    position:stick;
+    top:20 px;
+    border:2px solid papayawhip;
+}
+.three{
+    position:sticky;
+    background-color:peru;
+    border:3px solid gray;
+}
+.container{
+    display:flex
+}
